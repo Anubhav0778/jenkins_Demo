@@ -5,7 +5,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                bat 'echo ===== BUILD MODIFIED ====='
+                bat 'echo ===== BUILD MODIFIED2 ====='
             }
         }
 
