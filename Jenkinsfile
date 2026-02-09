@@ -5,7 +5,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                bat 'echo ===== BUILD FROM JENKINSFILE ====='
+                bat 'echo ===== BUILD MODIFIED ====='
             }
         }
 
